@@ -1,2 +1,14 @@
 console.log("hello everyone!");
 document.write("hello everyone in browser");
+var general;
+console.log(general);
+general=6;
+console.log(typeof general);
+general=true;
+console.log(typeof general);
+general="hi";
+console.log(typeof general);
+general='hi';
+console.log(typeof general);
+general= object;
+console.log(typeof general);
